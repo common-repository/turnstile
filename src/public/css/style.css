@@ -1,0 +1,21 @@
+.turnstile_cutoff {
+    background-position-y: bottom;
+    background-image: url(../img/gradient_white.png);
+    background-repeat: repeat-x;
+    height: 200px;
+    margin-top: -200px;
+    position: relative;
+}
+#ts-login-frame {
+    overflow: scroll;
+    border: 0px;
+    overflow: hidden;
+}
+a.btn-turnstile-readmore {
+    text-align: center;
+    display: block;
+}
+button.btn-turnstile-readmore {
+    color: #FFF;
+    margin-bottom:50px;
+}
